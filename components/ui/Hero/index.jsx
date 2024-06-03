@@ -1,7 +1,7 @@
 import Image from "next/image"
 import SubscribeForm from "../SubscribeForm"
-import previewImage from '../../../public/desktopmocuup.png'
-import LayoutEffect from "../../LayoutEffect"
+import previewImage from '../desktopmocuup.png'
+import LayoutEffect from "../LayoutEffect"
 
 const Hero = () => {
 
